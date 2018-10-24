@@ -13,11 +13,11 @@ Below are hashtags included in each tweet - 442754 hashtags.
 
 Below is a wordcloud of hashtags pulled from twitter profile descriptions - around 1000 hashtags from unique profiles.
 
-<img src="../images/IRA-hashtag-profile-wordcloud.png" alt="alt text" width="500">
+<img src="../../../../images/IRA-hashtag-profile-wordcloud.png" alt="alt text" width="500">
 
 But I did look at the frequency of tweets from Russian and English (US) accounts. I'm going to take the word of other journalists that the spikes in tweets in Russian are related to Crimea. 
 
-<img src="../images/IRA-TweetsPerDay.png" alt="alt text" width="900">
+<img src="../../../../images/IRA-TweetsPerDay.png" alt="alt text" width="900">
 
 More work to come!
 -John
