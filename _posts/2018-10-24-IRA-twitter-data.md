@@ -9,7 +9,7 @@ Code can be found [Here](https://github.com/harakasj/ira-twitter-data)
 
 Below are hashtags included in each tweet - 442754 hashtags. 
 
-<img src="../images/IRA-hashtag-tweets-wordcloud.png" alt="alt text" width="500">
+<img src="../../../../images/IRA-hashtag-tweets-wordcloud.png" alt="alt text" width="500">
 
 Below is a wordcloud of hashtags pulled from twitter profile descriptions - around 1000 hashtags from unique profiles.
 
