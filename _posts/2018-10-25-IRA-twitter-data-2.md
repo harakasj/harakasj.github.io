@@ -21,4 +21,4 @@ One strongly connected node.
 
 <img src="../../../../images/many_edges.png" alt="alt text" width="500">
 
-It goes without saying that there is a whole lot more that could go into this. For one, I didn't take into account multiple instances of edges between accounts - or in other words, an account retweeting multiple times. 
+It goes without saying that there is a whole lot more that could go into this. For one, I didn't take into account multiple instances of edges between accounts - or in other words, an account retweeting multiple times. But I also think that there is a wealth of information to be explored if given the time.
