@@ -6,6 +6,7 @@ date: 2018-10-25
 As in my previous, I was working on some wordclouds with Twitter's IRA data dump. To follow up, I'm just adding some network visualization that I was really interested in doing. The below images show a network of Twitter accounts related by retweets - IRA account nodes are listed in green while non-IRA accounts are red. It's interesting to see that there are a ton of inactive accounts represented as isolated nodes, whereas others are strongly connected. Unfortunately, the images don't really do justice to the size of the network - its much more interesting to me as an interactive visual tool. The node size is related to the degree of connectedness - more edges -> bigger node size. 
 
 Here is an overview of the entire network after some clustering. 
+
 <img src="../../../../images/network_overview.png" alt="alt text" width="500">
 
 Twitter bots with very little activity on the outer ring
