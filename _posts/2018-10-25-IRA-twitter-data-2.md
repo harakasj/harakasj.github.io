@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Some Insight on IRA Twitter Data"
-date: 2018-10-24
+title: "Some Insight on IRA Twitter Data 2"
+date: 2018-10-25
 ---
 As in my previous, I was working on some wordclouds with Twitter's IRA data dump. To follow up, I'm just adding some network visualization that I was really interested in doing. The below images show a network of Twitter accounts related by retweets - IRA account nodes are listed in green while non-IRA accounts are red. It's interesting to see that there are a ton of inactive accounts represented as isolated nodes, whereas others are strongly connected. Unfortunately, the images don't really do justice to the size of the network - its much more interesting to me as an interactive visual tool. The node size is related to the degree of connectedness - more edges -> bigger node size. 
 
